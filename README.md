@@ -1,2 +1,2 @@
 # face_recognition
-A Classroom Naming System Based on Face Recognition Technology
+A Face Recognition System, which can save recognized information
